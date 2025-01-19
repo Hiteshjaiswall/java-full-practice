@@ -8,7 +8,7 @@ public class classobject {
 class calculator{
     // knows something
     int a=1; 
-    // what to do 
+    // what to do  
     public int calc(int num1, int num2){
         System.out.println("this is in the calculator");
         int result=num1+num2;
